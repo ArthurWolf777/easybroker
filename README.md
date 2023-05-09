@@ -3,7 +3,7 @@ Consumir Api de Easy Broker
 
 #Instrucciones de instalación
 
-1. Cona el repositorio
+1. Clona el repositorio
 https://github.com/ArthurWolf777/easybroker.git
 
 2. Crea un entorno virtual de Python
